@@ -49,7 +49,7 @@ Un proyecto integral que demuestra mi capacidad para desarrollar y conectar la a
 
 > **Frontend:** [Dominio del frontend] | **Backend:** [Dominio del backend]
 >
-> 🔑 **Palabras Clave:** _#FullStack #React #Node.js #MongoDB #API_REST #Autenticación_
+>
 >
 > ![captura de royecto :D](../MauriDan1226/img/Captura%20de%20pantalla%202025-11-11%20145344.png)
 
@@ -64,7 +64,7 @@ Enfoque en la calidad visual y la adaptabilidad para múltiples dispositivos.
   - Énfasis en la **estructura semántica** y la maquetación moderna.
 - **Habilidades Consolidada:** Maquetación avanzada, Diseño Adaptativo y UX/UI.
 
-> 🔑 **Palabras Clave:** _#HTML5 #CSS3 #ResponsiveDesign #Flexbox #Maquetación_
+
 >
 > ![captura de royecto :D](../MauriDan1226/img/Captura%20de%20pantalla%202025-11-13%20193253.png)
 
