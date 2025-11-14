@@ -51,7 +51,7 @@ Un proyecto integral que demuestra mi capacidad para desarrollar y conectar la a
 >
 > 🔑 **Palabras Clave:** _#FullStack #React #Node.js #MongoDB #API_REST #Autenticación_
 >
-> ![captura de royecto :D](../img/Captura%20de%20pantalla%202025-11-11%20145344.png)
+> ![captura de royecto :D](../MauriDan1226/img/Captura%20de%20pantalla%202025-11-11%20145344.png)
 
 ### 2️⃣ Proyecto de Diseño Adaptativo: Tripleten Web Project Homeland
 
@@ -66,7 +66,7 @@ Enfoque en la calidad visual y la adaptabilidad para múltiples dispositivos.
 
 > 🔑 **Palabras Clave:** _#HTML5 #CSS3 #ResponsiveDesign #Flexbox #Maquetación_
 >
-> ![captura de royecto :D](../img/Captura%20de%20pantalla%202025-11-13%20193253.png)
+> ![captura de royecto :D](../MauriDan1226/img/Captura%20de%20pantalla%202025-11-13%20193253.png)
 
 ---
 
