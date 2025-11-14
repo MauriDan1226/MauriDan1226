@@ -24,12 +24,12 @@ Busco constantemente aplicar las mejores prácticas y colaborar en proyectos que
 
 Me especializo en el ecosistema JavaScript, utilizando herramientas que permiten construir aplicaciones escalables y eficientes.
 
-| Categoría | Tecnologías Clave |
-| :--- | :--- |
-| **Frontend Core** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Librería/Framework** | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
-| **Backend/Full Stack** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) |
-| **Diseño/Herramientas** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?logo=github&logoColor=white) |
+| Categoría               | Tecnologías Clave                                                                                                                                                                                                                                                    |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend Core**       | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)             |
+| **Librería/Framework**  | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)                                                                                                                                                                                      |
+| **Backend/Full Stack**  | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) |
+| **Diseño/Herramientas** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?logo=github&logoColor=white)                |
 
 ---
 
@@ -49,8 +49,9 @@ Un proyecto integral que demuestra mi capacidad para desarrollar y conectar la a
 
 > **Frontend:** [Dominio del frontend] | **Backend:** [Dominio del backend]
 >
-> **¡IMPORTANTE!** Reemplaza este enlace con la URL de tu imagen en GitHub (botón "Raw"):
-> ![Vista previa del proyecto Full Stack](https://raw.githubusercontent.com/mauriciorg26/MauriDan1226/main/img/captura_fullstack.png) 
+> 🔑 **Palabras Clave:** _#FullStack #React #Node.js #MongoDB #API_REST #Autenticación_
+>
+> ![captura de royecto :D](../MauriDan1226/img/Captura%20de%20pantalla%202025-11-11%20145344.png)
 
 ### 2️⃣ Proyecto de Diseño Adaptativo: Tripleten Web Project Homeland
 
@@ -63,8 +64,9 @@ Enfoque en la calidad visual y la adaptabilidad para múltiples dispositivos.
   - Énfasis en la **estructura semántica** y la maquetación moderna.
 - **Habilidades Consolidada:** Maquetación avanzada, Diseño Adaptativo y UX/UI.
 
-> **¡IMPORTANTE!** Reemplaza este enlace con la URL de tu imagen en GitHub (botón "Raw"):
-> ![Vista previa del proyecto Homeland](https://raw.githubusercontent.com/mauriciorg26/MauriDan1226/main/img/captura_homeland.png)
+> 🔑 **Palabras Clave:** _#HTML5 #CSS3 #ResponsiveDesign #Flexbox #Maquetación_
+>
+> ![captura de royecto :D](../MauriDan1226/img/Captura%20de%20pantalla%202025-11-13%20193253.png)
 
 ---
 
